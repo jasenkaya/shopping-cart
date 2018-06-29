@@ -1,0 +1,61 @@
+/* font-family: 'Ubuntu', sans-serif;
+font-family: 'Raleway', sans-serif; */
+
+#header{
+    background-color: orange;
+    padding: 15px;
+    color: lightgray;
+    margin: 5px;
+}
+
+.items{
+    border-style: solid;
+    border-bottom: none;
+    border-top-color: black;
+    border-right:none;
+    border-left: none;
+    color: darkblue;
+    margin: 15px;
+    padding: 25px;
+    font-size: 18pt;
+    font-family: 'Ubuntu', sans-serif;
+    /* display: block; */
+}
+
+#total{
+    border-style: solid;
+    border-bottom: none;
+    border-top-color: black;
+    border-right:none;
+    border-left: none;
+    color: red;
+    margin: 25px;
+    padding: 30px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 22pt;
+}
+#totalCost{
+    float: right;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+.desc{
+    display: none;
+    font-size: 12pt;
+    font-family: 'Raleway', sans-serif; 
+    margin-left: 15pt;
+    box-align: center;
+}
+
+.cost{
+    float: right;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.images{
+    width: 50pt;
+    height: 50pt;
+    float:left;
+    /* margin: 5pt; */
+}
